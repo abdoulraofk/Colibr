@@ -86,10 +86,5 @@ class ContactService {
                 }
             }
         }
-
-        private fun getContacts(activity: Activity) {
-            //TODO get contacts code here
-            Toast.makeText(activity, "Get contacts ....", Toast.LENGTH_LONG).show()
-        }
     }
 }
